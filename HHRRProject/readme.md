@@ -1,4 +1,6 @@
+
 # 📊 Análisis y Predicción de Deserción Laboral
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Status](https://img.shields.io/badge/Status-Active-success) ![License](https://img.shields.io/badge/License-MIT-lightgrey)  
 
 Este proyecto se centra en el **análisis exploratorio** y la **construcción de un modelo predictivo** para identificar los factores clave que influyen en la deserción de empleados dentro de una organización.
 
