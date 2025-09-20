@@ -1,6 +1,17 @@
-# 🤖 Repositorio de Proyectos de Machine Learning
+# 🤖 Repositorio de Proyectos de Machine Learning  
 
-Este repositorio reúne una colección de proyectos prácticos de **Machine Learning** enfocados en la resolución de problemas reales mediante el uso de algoritmos de aprendizaje automático, técnicas de análisis de datos e interpretabilidad de modelos.
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)  
+![Python](https://img.shields.io/badge/Python-3.10-blue)  
+![Status](https://img.shields.io/badge/Status-Active-success)  
+![License](https://img.shields.io/badge/License-MIT-lightgrey)  
+
+---
+
+## 📌 Descripción
+
+Este repositorio agrupa una serie de **proyectos de Machine Learning** desarrollados con un enfoque práctico y orientado a la solución de problemas reales.  
+
+Cada carpeta contiene un proyecto independiente con su propio README, código, datasets y resultados documentados. El objetivo es centralizar el aprendizaje, experimentación y aplicación de técnicas modernas de aprendizaje automático.  
 
 ---
 
