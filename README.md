@@ -1,9 +1,6 @@
 # 🤖 Repositorio de Proyectos de Machine Learning  
 
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)  
-![Python](https://img.shields.io/badge/Python-3.10-blue)  
-![Status](https://img.shields.io/badge/Status-Active-success)  
-![License](https://img.shields.io/badge/License-MIT-lightgrey)  
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange) ![Python](https://img.shields.io/badge/Python-3.10-blue) ![Status](https://img.shields.io/badge/Status-Active-success) ![License](https://img.shields.io/badge/License-MIT-lightgrey)  
 
 ---
 
